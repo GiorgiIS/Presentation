@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 namespace GoodPractice
 {
+    // Added some stuff
     public class Program
     {
         static void Main()
